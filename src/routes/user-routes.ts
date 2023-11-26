@@ -133,5 +133,4 @@ export async function userRoutes(app: FastifyInstance) {
 
     return reply.code(200).send();
   });
-
 }
